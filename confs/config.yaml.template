@@ -1,0 +1,176 @@
+resume_directory: ../data/input/Datablob
+summary_output_directory: ../data/output
+data_schema_dir: ../data/schema
+
+extractors:
+ experience:
+  - [Teacher, teaching, tutor]
+  - [developer, software developer, software engineer, dev]
+  - trader
+  - [financial advisor, financial advisory]
+  - [import, export]
+  - sales
+  - merchandising
+  - supply chain
+  - logistics
+  - [chef, sous-chef, cook]
+  - [engineer, Engineer]
+  - R&D
+  - marketing
+  - project management
+  - business development
+
+ position:
+  - Manager
+  - Assistant
+  - Analyst
+  - Consultant
+  - Partner
+  - Director
+  - [intern, insternship, Intern, INTERN]
+  - [Leader, leader]
+
+ level_of_education:
+  - [high-school, lycée, Lycée, High-school, High-School,baccalaureate, Baccalauréat]
+  - [Preparatory class, preparatory class, Preparatory Class]
+  - [bachelor, Bachelor, BACHELOR]
+  - [Master, master in, master of]
+  - MBA
+
+ platforms:
+  - Linux
+  - Windows
+  - [Mac, MacOS]
+  - Ubuntu
+
+ typestudies:
+  - management
+  - business
+  - engineering
+  - [Information Systems, IT, IS]
+  - [Computer Science, CS]
+  - Finance
+  - Accounting
+  - [Economic, economics]
+  - chemistry
+  - physics
+  - statistics
+  - [maths, mathematics]
+
+ universities:
+  - [TU Delft, TUDelft, Delft University of Technology]
+  - [Univerity of Twente, UTwente]
+  - [University of Amsterdam, UvA]
+  - [Vrije Univesriteit, VU University, VU Amsterdam]
+  - "MIT" 
+  - [HEC,HEC PARIS,Hautes Etudes Commerciales]
+  - [Ecole Centrale Paris, Centrale,CentraleSupélec]
+  - ESSEC
+  - [NUS, National University of Singapore]
+  - Cambridge
+  - [LSE, London School of Economics] 
+  - Oxford
+  - "SMU"
+  - "NTU"
+  - "INSEAD"
+  - University of Montreal
+
+ languages:
+  - Dutch
+  - English
+  - German
+  - Japanese
+  - Spanisch
+  - French
+  - [Chinese, Mandorin]
+  - Portuguese
+  
+ languages_accreditation:
+  - TOEIC
+  - CAE
+  - CPE
+  - TOEFL
+  - IELTS
+
+ hobbies:
+  - [swimming, swim]
+  - [soccer, football]
+  - painting
+  - reading
+  - rowing
+  - art
+  - sport
+  - tennis
+  - team
+  - golf
+  - [travel, travelling, traveling]
+  - handball
+  - squash
+  - [hike, hiking]
+  - music
+
+ programming:
+  - [java, JavaEE]
+  - C
+  - C++
+  - C#
+  - .NET
+  - Matlab
+  - R
+  - python
+  - PHP
+  - Ruby
+  - Scala
+  - Javascript
+  - Swift
+  - Matlab
+  - Go
+  - HTML
+  - Node.js
+  - PERL
+  - Assembly
+
+ database:
+  - SQL
+  - NoSQL
+  - BigQuery
+  - Cassandra
+  - CouchBase
+  - SQL Server
+  - CosmosDB
+  - Neo4j
+  - MySQL
+  - [Postgress, Postgresql,Postgre]
+  - Oracle
+  - MongoDB
+  - Hadoop
+  - Spark
+  - Oracle
+
+ machinelearning:
+  - [sklearn, scikit-learn, sk-learn]
+  - [tensorflow, tf, tensor-flow]
+  - keras
+  - h20
+  - CNTK
+  - Caffe
+  - Torch
+  
+ cloud_platform:
+  - [Azure, Microsoft Azure]
+  - [AWS, Amazon Web Services]
+  - [GCP, Google Cloud Platform, Google Cloud]
+  - IBM Cloud
+  - Alibaba Cloud
+
+ open_source:
+  - github
+  - bitbucket
+  - gitlab
+  - sourceforge
+  - gitkraken
+
+ IT_business_toolkit:
+  - Microsoft Office
+  - SAP
+  - [PowerBI, Power BI]

@@ -1,0 +1,6 @@
+#ignore these files
+bin/config_blog.py
+bin/config_cosmos.py
+bin/config_search.py
+/data
+
